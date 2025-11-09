@@ -1,0 +1,7 @@
+project_id = "iukdhujfycckpedlotvr"
+
+[functions.ai-coach]
+verify_jwt = false
+
+[functions.plan-generator]
+verify_jwt = false
