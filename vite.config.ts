@@ -14,5 +14,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/productivityhub/",
+  base: "./", // ✅ важное исправление
 }));
