@@ -1,7 +1,7 @@
 # Welcome to our project
 
 ## Project info
-The thing I couldn't manage is the verification email I can sign up and then sign in without verification email
+The thing I couldn't manage is the verification email you can sign up and then sign in without verification email
 
 This project is built with:
 
